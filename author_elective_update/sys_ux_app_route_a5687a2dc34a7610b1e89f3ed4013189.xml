@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Service Operations Workspace">4d69d0ed73c4301045216238edf6a7ea</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>New asset modal</name>
+        <optional_parameters>query</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Simple List">8968f22dc34a7610b1e89f3ed40131e5</parent_macroponent>
+        <parent_macroponent_composition_element_id>modal_viewport_1</parent_macroponent_composition_element_id>
+        <route_type>new-asset-modal</route_type>
+        <screen_type display_value="New asset modal">a2487aa143190a508ade1febb7b8f2aa</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-26 08:23:15</sys_created_on>
+        <sys_id>a5687a2dc34a7610b1e89f3ed4013189</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New asset modal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_a5687a2dc34a7610b1e89f3ed4013189</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-26 08:23:15</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=a5687a2dc34a7610b1e89f3ed4013189"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5c1d766d3b912e9cc55a348aa4e45af0</instance_id>
+        <instance_name>dev342624</instance_name>
+        <name>sys_ux_app_route_a5687a2dc34a7610b1e89f3ed4013189</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Service Operations Workspace">4d69d0ed73c4301045216238edf6a7ea</app_config><description/><extension_point/><fields/><icon/><name>New asset modal</name><optional_parameters>query</optional_parameters><order>0</order><parent_macroponent display_value="Simple List">8968f22dc34a7610b1e89f3ed40131e5</parent_macroponent><parent_macroponent_composition_element_id>modal_viewport_1</parent_macroponent_composition_element_id><route_type>new-asset-modal</route_type><screen_type display_value="New asset modal">a2487aa143190a508ade1febb7b8f2aa</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-26 08:23:15</sys_created_on><sys_id>a5687a2dc34a7610b1e89f3ed4013189</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New asset modal</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_app_route_a5687a2dc34a7610b1e89f3ed4013189</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-26 08:23:15</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=a5687a2dc34a7610b1e89f3ed4013189"/></record_update>]]></payload>
+        <payload_hash>1208721414</payload_hash>
+        <record_name>New asset modal</record_name>
+        <reverted_from/>
+        <source>1b95aedfc3f57e10b1e89f3ed4013166</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-26 08:23:15</sys_created_on>
+        <sys_id>2d687a2dc34a7610b1e89f3ed401318d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b59c13fb10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-26 08:23:15</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>29687a2d5b4a7610ee0fc90ecfbb4f8c</update_guid>
+        <update_guid_history>29687a2d5b4a7610ee0fc90ecfbb4f8c:1208721414</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-26 10:19:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>3f65ea9be9e246c692bdf8642e16a171</sys_id>
+        <sys_metadata>a5687a2dc34a7610b1e89f3ed4013189</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New asset modal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_a5687a2dc34a7610b1e89f3ed4013189</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_a5687a2dc34a7610b1e89f3ed4013189">2d687a2dc34a7610b1e89f3ed401318d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-26 10:19:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

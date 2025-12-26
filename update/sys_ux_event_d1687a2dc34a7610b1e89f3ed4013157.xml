@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>CONTENT_UPDATED_RELAY_8968f22dc34a7610b1e89f3ed40131e5</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Content updated relay</label>
+        <props>[
+    {
+        "fieldType": "json",
+        "label": "Optional parameters",
+        "name": "params",
+        "valueType": "string"
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "Optional parameters",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-26 08:23:15</sys_created_on>
+        <sys_id>d1687a2dc34a7610b1e89f3ed4013157</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content updated relay</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_event_d1687a2dc34a7610b1e89f3ed4013157</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-26 08:23:15</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=d1687a2dc34a7610b1e89f3ed4013157"/>
+</record_update>
